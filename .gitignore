@@ -1,9 +1,0 @@
-logs/*
-!.gitkeep
-node_modules/
-app/bower_components/
-test
-uploads
-tmp
-.DS_Store
-.idea
