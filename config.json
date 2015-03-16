@@ -1,0 +1,6 @@
+{
+	"mongoUrl": "localhost",
+	"domaineUrl": "www.pere-mut.fr",
+	"port": "8080",
+	"hostMailUrl": ""
+}
